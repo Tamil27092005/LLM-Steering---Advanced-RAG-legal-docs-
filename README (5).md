@@ -51,3 +51,7 @@ Users upload their own documents through the UI.
 ## Disclaimer
 > This tool is for **informational purposes only** and does not constitute legal advice.  
 > Always consult a qualified legal professional for legal matters.
+
+## Hugging face Space - Deployed 
+
+https://huggingface.co/spaces/viki45101/LegalGPT/tree/main
