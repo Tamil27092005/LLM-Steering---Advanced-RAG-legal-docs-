@@ -1,0 +1,6 @@
+gradio==5.23.0
+openai>=1.14.0
+pdfplumber>=0.10.0
+rank-bm25>=0.2.2
+langdetect>=1.0.9
+numpy>=1.24.0
